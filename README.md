@@ -1,5 +1,5 @@
 # Restaurant-Management
-The name of the restaurant in our database is “WOK IN INDIA” which is a Chinese cuisine restaurant providing a varied range of Chinese dishes. This is a project which has only admin functionality. There is no customer role in this project.  <br />
+The name of the restaurant is “WOK IN INDIA” which is a Chinese cuisine restaurant providing a varied range of Chinese dishes. This is a project which has only admin functionality. There is no customer role in this project.  <br />
 We have developed this project using the below technology- <br />
 •	HTML: The page layout has been designed in HTML. <br />
 •	CSS: CSS has been used for all the designing part. <br />
